@@ -1,6 +1,10 @@
 # genetic-algorithm
 Exercice : Algorithme génétique de recherche afin de déterminer le maximum d'une fonction f(x)
 
+## Téléchargement
+Vous pouvez téléchargez l'archives .zip du code ou bien utilisez git : 
+$ git clone https://github.com/computer-science-club-ca/genetic-algorithm.git
+
 ## L'environment
 C'est un projet Java.
 
