@@ -5,7 +5,7 @@ Exercice : Algorithme génétique de recherche afin de déterminer le maximum d'
 Vous pouvez téléchargez l'archives .zip du code ou bien utilisez git : 
 $ git clone https://github.com/computer-science-club-ca/genetic-algorithm.git
 
-## L'environment
+## L'environnement
 C'est un projet Java.
 
 Installez Java 8: http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-7-downloads-1956236.html
